@@ -12,7 +12,7 @@
 
 ```sh
 cd ~
-git clone https://github.com/jejune/.tmux.git
+git clone https://github.com/jejune/.tmux
 ```
 
 2. 自动配置
