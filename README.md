@@ -1,4 +1,4 @@
-## 快速使用tmux
+## 自定义tmux
 - Fork from [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
 - 修改`.tmux.conf.local`：
   + Open vi mode
