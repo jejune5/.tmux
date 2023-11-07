@@ -1,10 +1,9 @@
 快速使用tmux
 =====
-该配置来自 [gpakosz/.tmux](https://github.com/gpakosz/.tmux)，后面将不定期同步原始配置的更新。
-对`.tmux.conf.local`稍作修改：
-
- - Open vi mode
- - Bind C-z to replace C-b
+- Fork from [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
+- 修改`.tmux.conf.local`：
+ + Open vi mode
+ + Bind C-z to replace C-b
 
 配置
 ======
