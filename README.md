@@ -2,8 +2,8 @@
 =====
 - Fork from [gpakosz/.tmux](https://github.com/gpakosz/.tmux)
 - 修改`.tmux.conf.local`：
- + Open vi mode
- + Bind C-z to replace C-b
+  + Open vi mode
+  + Bind C-z to replace C-b
 
 配置
 ======
